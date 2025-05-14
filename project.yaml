@@ -28,8 +28,8 @@ advanced:
     mask: ''
     remove: ''
     isolate: ''
-    delay: 0
-    scroll: false
+    delay: 10
+    scroll: true
     headers:
         - { header: '', value: '' }
     cookies: ''
